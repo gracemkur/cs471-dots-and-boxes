@@ -16,6 +16,6 @@ Full minimax on 24 lines is too slow, so we limited search depth and added alpha
 The extra-turn rule means players don't always alternate, so minimax had to check the current turn instead of assuming the players alternate.
 
 Team contributions
-Grace: Set up repository, initialized the different functions, utilized claude to get this up and running https://claude.ai/share/b2e5e945-9175-4eaf-875d-1cb88691911e. SEt up the readme, board, evaluate, minimax, opponents, and play functions, helped with test_game.
+Grace: Set up repository, initialized the different functions, utilized claude to get this up and running https://claude.ai/share/b2e5e945-9175-4eaf-875d-1cb88691911e. Set up the readme, board, evaluate, minimax, opponents, and play functions, helped with test_game.
 Kate: made initial board design
 Hepoie: Came up with the plan and ideas
