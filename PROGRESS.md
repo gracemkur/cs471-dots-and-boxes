@@ -18,4 +18,4 @@ The extra-turn rule means players don't always alternate, so minimax had to chec
 Team contributions
 Grace: Set up repository, initialized the different functions, utilized claude to get this up and running https://claude.ai/share/b2e5e945-9175-4eaf-875d-1cb88691911e. Set up the readme, board, evaluate, minimax, opponents, and play functions, helped with test_game.
 Kate: made initial board design
-Hepoie: Came up with the plan and ideas
+Heipoe: Came up with the plan and ideas
