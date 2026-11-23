@@ -2,7 +2,7 @@ CS471 Final Project: Terrain Dots and Boxes
 
 Dots and Boxes on a 4x4 dot grid (3x3 boxes). Each box has a terrain value, and some values are negative, so capturing every box you can is not always the best strategy. The AI uses minimax with alpha-beta pruning (CS471 adversarial search).
 
-Team: [Name 1], [Name 2], [Name 3]
+Team: Grace Kurian, Kate Unger, Heipoe Gillet
 
 Setup
 Dependencies: Python 3.8 or newer. No other packages are needed (standard library only).
